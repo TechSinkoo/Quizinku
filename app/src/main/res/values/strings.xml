@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quizinku</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="update_profile">Update Profile</string>
+
+    <string name="banner_id">ca-app-pub-2779631885874157/4016020681</string>
+    <string name="interstitialAd_id">ca-app-pub-2779631885874157/2319795633</string>
+
+
+    <string name="privacyandterms">By signing up you agree to our <a href="">privacy policy</a> and terms and conditions.</string>
+</resources>
