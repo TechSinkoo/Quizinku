@@ -223,7 +223,7 @@ auth = FirebaseAuth.getInstance();
 
         AdRequest adRequest = new AdRequest.Builder().build();
 
-        InterstitialAd.load(this, getString(R.string.interstitialAd_id), adRequest,
+        InterstitialAd.load(this, getString(R.string.rewarded_ad), adRequest,
                 new InterstitialAdLoadCallback() {
                     @Override
                     public void onAdLoaded(@NonNull InterstitialAd interstitialAd) {
